@@ -1,0 +1,108 @@
+* {
+    background: white;
+    margin: 20px 40px 20px 40px;
+}
+
+body {
+box-sizing: border-box;
+margin-top: 40px;
+}
+
+.heading {
+    display: flex;
+    justify-content: flex-end;
+    margin-left: 40px;
+       
+}
+
+ .buthead {
+border-radius: 12px;
+background-color: rgb(68, 68, 211);
+color: white;
+margin-left: 200px;
+} 
+
+.pref, .serv, .about, .contact {
+    margin-right: 8px;
+}
+
+p {
+    color: rgb(144, 144, 143);
+        font-size: 14px;
+}
+
+h1 {
+    font-weight: 700;
+    font-size: 35px;
+}
+
+.container {
+    display: flex;
+}
+
+.story {
+    text-align: center;
+}
+.images3 {
+    display: flex;
+}
+
+.images3 p {
+    text-align: center;
+}
+
+.service {
+    display: flex; 
+}
+
+h3 {
+    text-align: center;
+}
+
+.pictures {
+ padding-left: 65px;
+}
+
+.service1, .service2 {
+    background-color: rgb(231, 231, 231);
+    padding: 60px 80px;
+    text-align: center;
+    
+}
+
+.service1>p {
+    font-size: 12px;
+}
+
+.service2>p {
+    font-size: 12px;
+}
+
+.but1 {
+    border-width: 1px;
+    border-radius: 12px;
+    background-color: rgb(68, 68, 211);
+    padding: 5px 90px;
+    margin-top: -10px;
+
+}
+.but2 {
+    border-width: 1px;
+        border-radius: 15px;
+        background-color: rgb(68, 68, 211);
+        padding: 8px 80px;
+        color: white;
+        
+        
+           
+}
+
+.but3 {
+    border-width: 1px;
+        border-radius: 15px;
+        background-color: rgb(68, 68, 211);
+        padding: 8px 80px;
+         color: white;
+}
+    
+ 
